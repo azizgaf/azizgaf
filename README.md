@@ -3,7 +3,7 @@
 <h1>Cybersecurity Projects:</h1>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/azizgaf/Azure_SIEM)
+  - [Microsoft Azure SIEM - Analysing Honeypot Logs and Mapping Data (includes report)](https://github.com/azizgaf/Azure_SIEM)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
