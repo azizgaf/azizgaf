@@ -1,6 +1,6 @@
 
 
-<h1>Cybersecurity Projects:</h1>
+<h1>Projects</h1>
 
 - <b>PowerShell</b>
   - [Microsoft Azure SIEM - Analysing Honeypot Logs and Mapping Data (includes report)](https://github.com/azizgaf/Azure_SIEM)
