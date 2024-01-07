@@ -12,9 +12,6 @@ I recently created this portfolio to present my personal projects.
 - <b>Python</b>
   - [Calculator using Tkinter](https://github.com/azizgaf/basic_calculator)
 
-<h1>Certifications</h1>
-Security+
-
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
