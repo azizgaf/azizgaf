@@ -9,6 +9,8 @@ I recently created this portfolio to present my personal projects.
 - <b>PowerShell</b>
   - [Microsoft Azure SIEM - Analysing Honeypot Logs and Mapping Data (includes report)](https://github.com/azizgaf/Azure_SIEM)
   - [FIM (File Integrity Monitor)](https://github.com/azizgaf/FIM)
+<b>
+<\b>
 - <b>Python</b>
   - [Calculator using Tkinter](https://github.com/azizgaf/basic_calculator)
 
