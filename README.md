@@ -6,7 +6,7 @@ I have maninly worked with scripting in Matlab for a range of applications from 
 
 I am currently learning PowerShell and its applications to improve my knowledge in cybersecurity.
 
-I recently created this portfolio to present my personal projects.
+Here is my portfolio of my recent personal projects.
 </b>
 <h1>Projects</h1>
 
