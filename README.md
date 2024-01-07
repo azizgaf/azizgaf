@@ -2,7 +2,8 @@
 
 <b>Hello! I am an aerospace engineering graduate currently developing my programming and IT skills.
 
-- 📖 I have maninly worked with scripting in Matlab for a range of applications from reading/manipulating large data sets to implementing numerical methods to solve equations. I am also proficient at Python which is the first programming language I learnt which grew my 
+- ➕ I have maninly worked with scripting in Matlab for a range of applications from reading/manipulating large data sets to implementing numerical methods to solve equations.
+- 🐍 I am also proficient at Python which is the first programming language I learnt which grew my 
     passion for programming through projects I completed using modules such as PyGame. 
 
 - 🔭 I am currently learning PowerShell and its applications to improve my knowledge in cybersecurity.
