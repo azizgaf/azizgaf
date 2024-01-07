@@ -1,5 +1,9 @@
+<h1>About Me</h1>
 
+<b>Hi I am an engineering graduate. 
 
+I recently created this portfolio to present my personal projects.
+</b>
 <h1>Projects</h1>
 
 - <b>PowerShell</b>
