@@ -6,9 +6,11 @@ I recently created this portfolio to present my personal projects.
 </b>
 <h1>Projects</h1>
 
-- <b>PowerShell</b>
+- <b>Cybersecurity/PowerShell</b>
   - [Microsoft Azure SIEM - Analysing Honeypot Logs and Mapping Data (includes report)](https://github.com/azizgaf/Azure_SIEM)
   - [FIM (File Integrity Monitor)](https://github.com/azizgaf/FIM)
+  - BlueTeamLabs
+    - Phishing Email Analysis
 <b>
 
 - <b>Python</b>
