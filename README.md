@@ -9,7 +9,7 @@ I recently created this portfolio to present my personal projects.
 - <b>Cybersecurity/PowerShell</b>
   - [Microsoft Azure SIEM - Analysing Honeypot Logs and Mapping Data (includes report)](https://github.com/azizgaf/Azure_SIEM)
   - [FIM (File Integrity Monitor)](https://github.com/azizgaf/FIM)
-  - BlueTeamLabs
+  - Blue Team Labs Online (BTLO)
     - Phishing Email Analysis
 <b>
 
