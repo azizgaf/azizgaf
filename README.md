@@ -6,7 +6,7 @@
 - 🐍 I am also proficient at Python which is the first programming language I learnt which grew my 
     passion for programming through projects I completed using modules such as PyGame. 
 
-- 🔭 I am currently learning PowerShell and its applications to improve my knowledge in cybersecurity.
+- 🔭 I am currently learning PowerShell and its applications to improve my cybersecurity skills.
 
 Here is my portfolio of my recent personal projects.
 </b>
