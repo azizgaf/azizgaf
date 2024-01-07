@@ -1,6 +1,8 @@
 <h1>About Me</h1>
 
-<b>Hello, I am an aerospace engineering graduate currently developing my programming and IT skills, I have maninly worked with scripting in Matlab to manipulate large data sets and carry out various calculations throughout my engineering course and career. I am also proficient at Python which is the first programming language I learnt. I am currently learning PowerShell and its applications to improve my knowledge in cybersecurity.
+<b>Hello! I am an aerospace engineering graduate currently developing my programming and IT skills.
+
+I have maninly worked with scripting in Matlab to manipulate large data sets and carry out various calculations throughout my engineering course and career. I am also proficient at Python which is the first programming language I learnt. I am currently learning PowerShell and its applications to improve my knowledge in cybersecurity.
 
 I recently created this portfolio to present my personal projects.
 </b>
