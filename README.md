@@ -8,7 +8,7 @@
 
 - 🔭 I am currently learning PowerShell and its applications to improve my cybersecurity skills.
 
-Here is my portfolio of my recent personal projects.
+Here is my portfolio of recent personal projects.
 </b>
 <h1>Projects</h1>
 
