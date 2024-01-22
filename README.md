@@ -1,4 +1,4 @@
-<h1>About Me 🤙🏽</h1>
+<h1>About Me </h1>
 
 <b>Hello! I am an aerospace engineering graduate currently developing my programming and IT skills.
 
