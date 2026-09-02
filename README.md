@@ -1,14 +1,3 @@
-<h1>About Me </h1>
-
-<b>Hello! I am an engineer currently developing my programming and IT skills.
-
-- ⚙️ I have mainly worked with scripting in Matlab for a range of applications from reading/manipulating large data sets to implementing numerical methods to solve equations.
-- 🐍 I am also proficient at Python which is the first programming language I learnt which grew my 
-    passion for programming through projects I completed using modules such as PyGame. 
-
-- 🔭 I am currently learning PowerShell and its applications to improve my cybersecurity skills.
-
-Here is my portfolio of recent personal projects.
 </b>
 <h1>Projects</h1>
 
